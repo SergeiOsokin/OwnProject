@@ -1,5 +1,5 @@
-@import "./__first-line/first-line.css";
-@import "./__menu/menu.css";
+@import url(./__first-line/first-line.css);
+@import url(./__menu/menu.css);
 
 
 .header {

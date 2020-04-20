@@ -1,4 +1,4 @@
-@import "./__link/link.css";
+@import url(./__link/link.css);
 
 .header__menu {
   display: flex;
