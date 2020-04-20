@@ -1,0 +1,12 @@
+.just {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    border:1px solid red;
+}
+
+.block {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 16px;
+}

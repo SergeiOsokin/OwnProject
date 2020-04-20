@@ -1,0 +1,8 @@
+@import "./__link/link.css";
+
+.header__menu {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0 0 0;
+  border:1px green solid;
+}

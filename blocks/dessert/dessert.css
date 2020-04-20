@@ -1,0 +1,12 @@
+@import "./__card/card.css";
+
+.dessert {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  border:1px solid red;
+}
+
+.dessert__title {
+
+}

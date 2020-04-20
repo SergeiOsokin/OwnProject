@@ -1,0 +1,12 @@
+
+.header__first-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px;
+  border:1px blue solid;
+}
+
+.first-line__title {
+  margin: 0px;
+}

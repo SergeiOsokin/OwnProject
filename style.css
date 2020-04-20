@@ -1,0 +1,24 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/dessert/dessert.css);
+@import url(./blocks/just/just.css);
+@import url(./blocks/footer/footer.css);
+
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.page {
+  margin-top: 20px;
+  width: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
