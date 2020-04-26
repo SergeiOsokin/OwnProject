@@ -4,5 +4,7 @@
   display: flex;
   justify-content: space-around;
   margin: 20px 0 0 0;
-  border:1px green solid;
+  height: 50px;
+  background-color: rgba(255, 167, 136, 0.5);
+  border-radius: 5%;
 }

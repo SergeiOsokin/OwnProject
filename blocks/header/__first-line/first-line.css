@@ -4,9 +4,26 @@
   justify-content: space-between;
   align-items: center;
   margin: 0px;
-  border:1px blue solid;
+  background-color: rgba(255, 167, 136, 0.5);
+  height: 10vh;
+  border-radius: 5%;
 }
 
 .first-line__title {
-  margin: 0px;
+  margin: 0px 0 0 10px;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.first-line__search {
+  margin-right: 10px;
+  border-radius: 10%;
+}
+
+.input {
+  height:4vh;
+  width:30vw;
+  border-radius: 5%;
+  border: 3px rgb(201, 132, 132) solid;
+
 }
